@@ -1,1 +1,1 @@
-heloooo
+wscript.echo "hello"
